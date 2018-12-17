@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "chelsea",
+      "name": "Chelsea McShane",
+      "bio": "Geek girl, ProServ, poet.",
+      "favourite music": ["Brit Pop", "Brit Rock", "Pop", "Rock"]
+    },
+    {
+      "id": 2,
+      "username": "finn",
+      "name": "Finn Ickler",
+      "bio": "Socks and Rubik's cubes lover.",
+      "favourite music": ["Rap", "German Rock", "Pop", "Rock"]
+    },
+    {
+      "id": 3,
+      "username": "daniel",
+      "name": "Daniel ",
+      "bio": "Multinational guy.",
+      "favourite music": ["Spanish Pop", "Disney Soundtracks", "Pop", "Rock"]
+    },
+    {
+      "id": 4,
+      "username": "emanuele",
+      "name": "Emanuele Cuoccio",
+      "bio": "Pineapple pizza hater.",
+      "favourite music": ["Indie Rock", "Electronic", "Pop"]
+    },
+    {
+      "id": 5,
+      "username": "felixm",
+      "name": "Felix Mezo",
+      "bio": "AKA the cone.",
+      "favourite music": ["Electronic", "Reggaeton", "Spanish Pop", "Rock"]
+    },
+    {
+      "id": 6,
+      "username": "felixg",
+      "name": "Felix Guglielmi",
+      "bio": "From Venezuela, loves Russia.",
+      "favourite music": ["Latin Pop", "Venezuelan Cumbia", "Salsa", "Rock"]
+    },
+    {
+      "id": 7,
+      "username": "dragos",
+      "name": "Dragos Pisaroc",
+      "bio": "Famous Romaninan pianist.",
+      "favourite music": ["Romanian Popular Music", "Brit Rock", "Pop", "Funky"]
+    },
+    {
+      "id": 8,
+      "username": "jean-robin",
+      "name": "Jean-Robin Foehn",
+      "bio": "Baguettes lover.",
+      "favourite music": ["French Pop", "Rock", "Rap", "EDM"]
+    },
+    {
+      "id": 9,
+      "username": "andrew",
+      "name": "Andrew Wilson",
+      "bio": "Always wearing kilt.",
+      "favourite music": ["Brit Pop", "Brit Rock", "Celtic Music", "Rock"]
+    },
+    {
+      "id": 10,
+      "username": "tomi",
+      "name": "Tomi Popoola",
+      "bio": "YouTube influencer.",
+      "favourite music": ["R&B", "Reggae", "Brit Pop", "Rock"]
+    }
+  ]
+}

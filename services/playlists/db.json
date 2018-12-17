@@ -1,0 +1,73 @@
+{
+  "playlists": [
+    {
+      "id": 1,
+      "title": "The Ultimate Britpop Playlist",
+      "createdBy": 1,
+      "source": "YouTube",
+      "URL": "https://www.youtube.com/playlist?list=PL4BrNFx1j7E5DYo6tyYai3n7biYnc_-5t"
+    },
+    {
+      "id": 2,
+      "title": "New Rap & Hip Hop Songs 2019",
+      "createdBy": 2,
+      "source": "YouTube",
+      "URL": "https://www.youtube.com/playlist?list=PL3oW2tjiIxvTHZIat41q8Cvo1wfduJcHa"
+    },
+    {
+      "id": 3,
+      "title": "Germany Top 50",
+      "createdBy": 2,
+      "source": "Spotify",
+      "URL": "https://open.spotify.com/playlist/6wLRbQ8ujPUjIoX86uDVxJ"
+    },{
+      "id": 4,
+      "title": "The Lion King Special Edition's Soundtrack",
+      "createdBy": 3,
+      "source": "SoundCloud",
+      "URL": "https://soundcloud.com/samantha-perritt/sets/lion-king-soundtrack"
+    },
+    {
+      "id": 5,
+      "title": "Best of November 2018",
+      "createdBy": 3,
+      "source": "Jamendo",
+      "URL": "https://www.jamendo.com/playlist/500458937/best-of-november-2018"
+    },
+    {
+      "id": 6,
+      "title": "Synthwave - Retro 80s Electronic",
+      "createdBy": 4,
+      "source": "Spotify",
+      "URL": "https://open.spotify.com/playlist/5GBJpEiKMiFy3cBPKR2TaH"
+    },
+    {
+      "id": 7,
+      "title": "Merendola Vol. 1",
+      "createdBy": 6,
+      "source": "SoundCloud",
+      "URL": "https://soundcloud.com/musiquitomusic/sets/merendola-vol-1"
+    },
+    {
+      "id": 8,
+      "title": "Ruta del Bacalao",
+      "createdBy": 5,
+      "source": "YouTube",
+      "URL": "https://www.youtube.com/playlist?list=PLub8c1oemgBCXFkYJWzyPNPwNFRKQWfx6"
+    },
+    {
+      "id": 9,
+      "title": "Romanian Hits 2018",
+      "createdBy": 7,
+      "source": "Spotify",
+      "URL": "https://open.spotify.com/playlist/0g5twCr1C6oituq3La2Div"
+    },
+    {
+      "id": 10,
+      "title": "Salsa Picante",
+      "createdBy": 10,
+      "source": "Jamendo",
+      "URL": "https://www.jamendo.com/playlist/500431178/salsa-picante"
+    }
+  ]
+}
